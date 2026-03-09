@@ -2,7 +2,7 @@
 
 ## UI Design
 
-Login Page:
+Landing Page:
 https://www.figma.com/make/BwqSnE6hbBDAIoU8Zw9nkt/JusticeConnect-Legal-Aid-UI?p=f&t=DLIkwpijPFnX1DS7-0&fullscreen=1
 
 Dashboard Page:
